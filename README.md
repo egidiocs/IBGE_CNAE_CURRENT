@@ -1,4 +1,4 @@
-# Dados vigentes - CNAE IBGE 2.0.6
+# Acesso e Download aos dados vigentes e atualizados do CNAE IBGE 2.0
 
 Este projeto tem o objetivo prover acesso facilitado, visual e estruturado dos dados vigentes do CNAE - Cadastro Nacional de Atividades Econômicas, da Comissão Nacional de Classificação, CONCLA, do IBGE - Instituto Brasileiro de Geografia e Estatística. http://cnae.ibge.gov.br/
 
@@ -7,7 +7,7 @@ Versionaremos nos critérios MAJOR.MINOR.PATCH definidos em Semantic Versioning 
 MAJOR.MINOR = definidos como publicados pelo IBGE
 .PATCH = definidos sequencialmente pelas resoluções oficiais no escopo do IBGE aplicadas à versão.
 
-Versão CNAE IBGE 2.0.6
+Versão atual: CNAE IBGE 2.0.6
 http://choosealicense.com/licenses/
 
 Disclaimer:
