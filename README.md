@@ -5,6 +5,7 @@ Este projeto tem o objetivo prover acesso facilitado, visual e estruturado dos d
 Versionaremos nos critérios MAJOR.MINOR.PATCH definidos em Semantic Versioning 2.0.0 http://semver.org/, sendo:
 
 MAJOR.MINOR = definidos como publicados pelo IBGE
+
 .PATCH = definidos sequencialmente pelas resoluções oficiais no escopo do IBGE aplicadas à versão.
 
 Versão atual: CNAE IBGE 2.0.6
